@@ -1,0 +1,38 @@
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.BUS.deps.json
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.BUS.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.BUS.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.DAL.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.MOD.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.ULT.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.DAL.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.MOD.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.ULT.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.csproj.AssemblyReference.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.AssemblyInfoInputs.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.AssemblyInfo.cs
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.csproj.CoreCompileInputs.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.csproj.CopyComplete
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\ref\NHCH.BUS.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.BUS\obj\Debug\net6.0\refint\NHCH.BUS.dll
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.BUS.deps.json
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.BUS.dll
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.BUS.pdb
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.DAL.dll
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.MOD.dll
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.ULT.dll
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.DAL.pdb
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.MOD.pdb
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\bin\Debug\net6.0\NHCH.ULT.pdb
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.csproj.AssemblyReference.cache
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.AssemblyInfoInputs.cache
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.AssemblyInfo.cs
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.csproj.CopyComplete
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.dll
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\refint\NHCH.BUS.dll
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\NHCH.BUS.pdb
+C:\Users\Hung0\ASP.NET\Class\NganHangCauHoi\NganHangCauHoi\NHCH.API\NHCH.API\NHCH.BUS\obj\Debug\net6.0\ref\NHCH.BUS.dll

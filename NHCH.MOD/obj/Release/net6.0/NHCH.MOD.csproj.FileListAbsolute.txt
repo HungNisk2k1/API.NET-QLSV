@@ -1,0 +1,12 @@
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\bin\Release\net6.0\NHCH.MOD.deps.json
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\bin\Release\net6.0\NHCH.MOD.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\bin\Release\net6.0\ref\NHCH.MOD.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\bin\Release\net6.0\NHCH.MOD.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\obj\Release\net6.0\NHCH.MOD.csproj.AssemblyReference.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\obj\Release\net6.0\NHCH.MOD.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\obj\Release\net6.0\NHCH.MOD.AssemblyInfoInputs.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\obj\Release\net6.0\NHCH.MOD.AssemblyInfo.cs
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\obj\Release\net6.0\NHCH.MOD.csproj.CoreCompileInputs.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\obj\Release\net6.0\NHCH.MOD.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\obj\Release\net6.0\ref\NHCH.MOD.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.MOD\obj\Release\net6.0\NHCH.MOD.pdb

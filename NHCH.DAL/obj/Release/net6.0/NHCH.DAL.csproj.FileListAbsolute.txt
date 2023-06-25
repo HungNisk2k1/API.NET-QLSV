@@ -1,0 +1,17 @@
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\bin\Release\net6.0\NHCH.DAL.deps.json
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\bin\Release\net6.0\NHCH.DAL.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\bin\Release\net6.0\ref\NHCH.DAL.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\bin\Release\net6.0\NHCH.DAL.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\bin\Release\net6.0\NHCH.MOD.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\bin\Release\net6.0\NHCH.ULT.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\bin\Release\net6.0\NHCH.MOD.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\bin\Release\net6.0\NHCH.ULT.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\obj\Release\net6.0\NHCH.DAL.csproj.AssemblyReference.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\obj\Release\net6.0\NHCH.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\obj\Release\net6.0\NHCH.DAL.AssemblyInfoInputs.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\obj\Release\net6.0\NHCH.DAL.AssemblyInfo.cs
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\obj\Release\net6.0\NHCH.DAL.csproj.CoreCompileInputs.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\obj\Release\net6.0\NHCH.DAL.csproj.CopyComplete
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\obj\Release\net6.0\NHCH.DAL.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\obj\Release\net6.0\ref\NHCH.DAL.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.DAL\obj\Release\net6.0\NHCH.DAL.pdb

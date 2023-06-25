@@ -1,0 +1,12 @@
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\bin\Release\net6.0\NHCH.ULT.deps.json
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\bin\Release\net6.0\NHCH.ULT.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\bin\Release\net6.0\ref\NHCH.ULT.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\bin\Release\net6.0\NHCH.ULT.pdb
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\obj\Release\net6.0\NHCH.ULT.csproj.AssemblyReference.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\obj\Release\net6.0\NHCH.ULT.GeneratedMSBuildEditorConfig.editorconfig
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\obj\Release\net6.0\NHCH.ULT.AssemblyInfoInputs.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\obj\Release\net6.0\NHCH.ULT.AssemblyInfo.cs
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\obj\Release\net6.0\NHCH.ULT.csproj.CoreCompileInputs.cache
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\obj\Release\net6.0\NHCH.ULT.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\obj\Release\net6.0\ref\NHCH.ULT.dll
+G:\MyFiles\Edu\Công nghệ web và dịch vụ trực tuyến\Project\NHCH.API\NHCH.ULT\obj\Release\net6.0\NHCH.ULT.pdb

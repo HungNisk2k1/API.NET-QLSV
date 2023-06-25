@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.API\\NHCH.API.csproj": {}
+  },
+  "projects": {
+    "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.API\\NHCH.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.API\\NHCH.API.csproj",
+        "projectName": "NHCH.API",
+        "projectPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.API\\NHCH.API.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.API\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.BUS\\NHCH.BUS.csproj": {
+                "projectPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.BUS\\NHCH.BUS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[6.0.1, 6.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[6.0.1, 6.0.1]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[6.0.1, 6.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.BUS\\NHCH.BUS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.BUS\\NHCH.BUS.csproj",
+        "projectName": "NHCH.BUS",
+        "projectPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.BUS\\NHCH.BUS.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.BUS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.DAL\\NHCH.DAL.csproj": {
+                "projectPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.DAL\\NHCH.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.DAL\\NHCH.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.DAL\\NHCH.DAL.csproj",
+        "projectName": "NHCH.DAL",
+        "projectPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.DAL\\NHCH.DAL.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.MOD\\NHCH.MOD.csproj": {
+                "projectPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.MOD\\NHCH.MOD.csproj"
+              },
+              "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.ULT\\NHCH.ULT.csproj": {
+                "projectPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.ULT\\NHCH.ULT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.MOD\\NHCH.MOD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.MOD\\NHCH.MOD.csproj",
+        "projectName": "NHCH.MOD",
+        "projectPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.MOD\\NHCH.MOD.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.MOD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.ULT\\NHCH.ULT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.ULT\\NHCH.ULT.csproj",
+        "projectName": "NHCH.ULT",
+        "projectPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.ULT\\NHCH.ULT.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "G:\\MyFiles\\Edu\\Công nghệ web và dịch vụ trực tuyến\\Project\\NHCH.API\\NHCH.ULT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
